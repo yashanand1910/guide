@@ -7,5 +7,5 @@ This is a collection of pragmatic & comprehensive software development best prac
 As I have developed real applications over the years, spanning web, mobile and the desktop landscape, I have come to realize a few patterns in development that I have stuck to. These patterns are, of course, unique to my experience, but also resonate with some of the best available practices you can find online.
 
 ## Chapters
-* [Developing a Progressive Web Application](https://github.com/yashanand1910/guides/wiki/Developing-a-Progressive-Web-Application)
+* [Developing a Progressive Web Application](https://github.com/yashanand1910/guide/wiki/%5BWIP%5D-Develop-&-Deploy-a-Progressive-Web-Application)
 * More coming soon...
