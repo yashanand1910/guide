@@ -7,6 +7,9 @@ This is a collection of pragmatic & comprehensive software development best prac
 As I have developed real applications over the years, spanning web, mobile and the desktop landscape, I have come to realize a few patterns in development that I have stuck to. These patterns are, of course, unique to my experience, but also resonate with some of the best available practices you can find online.
 
 ## Chapters
-* [WIP] [Developing a Progressive Web Application](https://github.com/yashanand1910/guide/wiki/%5BWIP%5D-Develop-&-Deploy-a-Progressive-Web-Application)
-* [WIP] [CI/CD Patterns](https://github.com/yashanand1910/guide/wiki/%5BWIP%5D-CI-CD-Patterns)
+* [WIP] [Developing a Progressive Web Application](https://github.com/yashanand1910/guide/wiki/Develop-&-Deploy-a-Progressive-Web-Application)
+* [WIP] [CI/CD Patterns for Beginners](https://github.com/yashanand1910/guide/wiki/CI-CD-Patterns-for-Beginners)
+* [WIP] [Using NgRx with Firebase Coherently](https://github.com/yashanand1910/guide/wiki/Using-NgRx-with-Firebase-Coherently)
+* [WIP] [Payments using Stripe, Angular & Firebase](https://github.com/yashanand1910/guide/wiki/Payments-using-Stripe,-Angular-&-Firebase)
+* [WIP] [Switch to WebStorm Today!](https://github.com/yashanand1910/guide/wiki/Switch-to-WebStorm-Today!)
 * More coming soon...
